@@ -9,13 +9,11 @@ To install this project, follow the steps below:
 
 Clone the repository to your local machine:
 
-Copy
 git clone https://github.com/Myrzaly/butler_project
 ```
 
 Install the project dependencies:
 
-Copy
 npm install
 ```
 ### Testing
@@ -23,14 +21,13 @@ To test this project, follow the steps below:
 
 Start the server:
 
-Copy
 npm start
 ```
 
 Use a tool like Postman or cURL to send a POST request to the API endpoint:
 
 dsconfig
-Copy
+
 POST http://localhost:3000/create-ticket
 Content-Type: application/json
 
@@ -49,7 +46,6 @@ To build this project, follow the steps below:
 
 Run the build command:
 
-Copy
 npm run build
 ```
 
@@ -60,7 +56,6 @@ To run this project, follow the steps below:
 
 Start the server:
 
-Copy
 npm start
 ```
 
