@@ -37,7 +37,10 @@ Content-Type: application/json
 }
 ```
 
-3. Verify that the server returns a 200 OK response with a success message.
+3. Verify that the server returns a 200 OK response with a success message. 
+P.S. I have used Postman for testing. If you also use Postman for testing, you should see similar output in Postman: 
+<img width="1059" alt="Screenshot 2023-06-06 at 3 39 45 PM" src="https://github.com/Myrzaly/butler_project/assets/120097418/d43dddd3-97db-4897-bb40-4c255e53b8c4">
+
 
 ### Building
 To build this project, follow the steps below:
