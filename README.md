@@ -1,16 +1,16 @@
-Project Name
+### Project Name
 This is a project for creating and managing tickets using an API endpoint.
 
-Getting Started
+### Getting Started
 To get started with this project, follow the instructions below.
 
-Installing
+### Installing
 To install this project, follow the steps below:
 
 Clone the repository to your local machine:
 
 Copy
-git clone https://github.com/username/project.git
+git clone https://github.com/Myrzaly/butler_project
 ```
 
 Install the project dependencies:
@@ -18,7 +18,7 @@ Install the project dependencies:
 Copy
 npm install
 ```
-Testing
+### Testing
 To test this project, follow the steps below:
 
 Start the server:
@@ -44,7 +44,7 @@ Content-Type: application/json
 
 Verify that the server returns a 200 OK response with a success message.
 
-Building
+### Building
 To build this project, follow the steps below:
 
 Run the build command:
@@ -66,7 +66,7 @@ npm start
 
 The server will listen on port 3000 by default.
 
-Assumptions
+### Assumptions
 In developing this project, I have made the following assumptions:
 
 The JSON file used to store the tickets already exists and is writable.
