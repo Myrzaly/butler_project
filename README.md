@@ -20,12 +20,12 @@ npm install
 To test this project, follow the steps below:
 
 1. Start the server:
-
+```
 npm start
-
+```
 
 2. Use Postman to send a POST request to the API endpoint:
-
+```
 POST http://localhost:3000/create-ticket
 Content-Type: application/json
 
@@ -35,7 +35,7 @@ Content-Type: application/json
   "description": "Ticket Description",
   "file": "/path/to/file"
 }
-
+```
 
 3. Verify that the server returns a 200 OK response with a success message.
 
@@ -43,18 +43,18 @@ Content-Type: application/json
 To build this project, follow the steps below:
 
 1. Run the build command:
-
+```
 npm run build
-
-The build output will be located in the dist/ directory.
+```
+2. The build output will be located in the dist/ directory.
 
 Running
 To run this project, follow the steps below:
 
 1. Start the server:
-
+```
 npm start
-
+```
 2. The server will listen on port 3000 by default.
 
 ### Assumptions
