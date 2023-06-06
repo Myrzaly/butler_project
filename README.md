@@ -51,7 +51,7 @@ npm run build
 ```
 2. The build output will be located in the dist/ directory.
 
-Running
+### Running
 To run this project, follow the steps below:
 
 1. Start the server:
